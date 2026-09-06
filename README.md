@@ -8,7 +8,7 @@ Ce portfolio présente mon **parcours, mes compétences techniques, mes projets 
 
 ## 🌐 Portfolio
 
-https://chaima-el-mnouar.github.io/portfolio/
+[chaima-el-mnouar.github.io/portfolio](https://chaima-el-mnouar.github.io/portfolio)
 
 ## 🛠️ Technologies
 
@@ -26,9 +26,13 @@ Je suis actuellement à la recherche d’une **première opportunité profession
 
 ## 📫 Contact
 
+📧 **Email :** [elmanouar.chai@gmail.com](mailto:elmanouar.chai@gmail.com)
+
 💻 **GitHub :** [chaima-el-mnouar](https://github.com/chaima-el-mnouar)
 
 🌐 **Portfolio :** [chaima-el-mnouar.github.io/portfolio](https://chaima-el-mnouar.github.io/portfolio)
+
+💼 **LinkedIn :** [El Mnouar Chaima](https://www.linkedin.com/in/chaima-el-mnouar-b7a1a1433/)
 
 ---
 
